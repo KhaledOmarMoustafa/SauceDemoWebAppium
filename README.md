@@ -17,6 +17,7 @@ The Used Tools & Frameworks:
 6-Java Programming Language.  
 7-OOP Concepts.
 8-Page Object Model Design Pattern (POM).
+9-Allure Report.
 
 The Executed Test Cases Are Generated in order as Follows:
 1-Open chrome on the Android Emulator

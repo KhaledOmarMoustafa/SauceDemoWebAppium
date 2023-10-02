@@ -1,0 +1,35 @@
+{
+  "uuid": "ba17d417-4fc4-4aa7-8166-9870ffd8b8d0",
+  "name": "runner.Runner",
+  "children": [
+    "ccb06ce7-bb1b-4750-bd0e-9bc4c36f31c8"
+  ],
+  "befores": [
+    {
+      "name": "setUpClass",
+      "status": "passed",
+      "stage": "finished",
+      "description": "",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1696278891056,
+      "stop": 1696278891328
+    }
+  ],
+  "afters": [
+    {
+      "name": "tearDownClass",
+      "status": "passed",
+      "stage": "finished",
+      "description": "",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1696278952931,
+      "stop": 1696278952934
+    }
+  ],
+  "start": 1696278890999,
+  "stop": 1696278952949
+}

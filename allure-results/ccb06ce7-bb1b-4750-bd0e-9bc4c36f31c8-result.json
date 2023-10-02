@@ -1,0 +1,70 @@
+{
+  "uuid": "ccb06ce7-bb1b-4750-bd0e-9bc4c36f31c8",
+  "historyId": "8805b235b6b38267bdd72f5d497c1408",
+  "fullName": "io.cucumber.testng.AbstractTestNGCucumberTests.runScenario",
+  "labels": [
+    {
+      "name": "package",
+      "value": "runner.Runner"
+    },
+    {
+      "name": "testClass",
+      "value": "runner.Runner"
+    },
+    {
+      "name": "testMethod",
+      "value": "runScenario"
+    },
+    {
+      "name": "parentSuite",
+      "value": "All Test Suite"
+    },
+    {
+      "name": "suite",
+      "value": "C:\\Users\\khaled\\Downloads\\FirstAppiumProject"
+    },
+    {
+      "name": "subSuite",
+      "value": "runner.Runner"
+    },
+    {
+      "name": "host",
+      "value": "Bugz"
+    },
+    {
+      "name": "thread",
+      "value": "34720@Bugz.main(1)"
+    },
+    {
+      "name": "framework",
+      "value": "testng"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    }
+  ],
+  "links": [],
+  "name": "Runs Cucumber Scenarios",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [
+    {
+      "name": "arg1",
+      "value": "\"user should be able to login and make an order\""
+    },
+    {
+      "name": "arg0",
+      "value": "\"user login with valid username and password\""
+    }
+  ],
+  "start": 1696278891444,
+  "stop": 1696278952807
+}
